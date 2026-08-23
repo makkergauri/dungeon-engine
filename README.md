@@ -8,8 +8,7 @@ dungeon, an enemy or a floor is — it provides an ECS, a fixed-timestep loop, a
 batching renderer, AABB physics, action-based input and audio, and the game is
 one possible consumer of that.
 
-> **Screenshots / demo GIF go here.** A recorded clip of actual play is the most
-> important thing in this README — see [Recording a demo](#recording-a-demo).
+> **Screenshots**
 
 ---
 
