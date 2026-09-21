@@ -6,3 +6,5 @@ cmake-build-*/
 *.o
 *.a
 compile_commands.json
+dist/
+*.zip
